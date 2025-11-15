@@ -51,4 +51,5 @@ AI-900: Microsoft AI Fundamentals
 **📫 Let’s Connect**
 
 LinkedIn: linkedin.com/in/singhakhand
+
 Email: akhand.bu05@gmail.com
